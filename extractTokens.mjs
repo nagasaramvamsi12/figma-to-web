@@ -1,9 +1,9 @@
 import fetch from 'node-fetch';
 import { writeFileSync } from 'fs';
 
-const FIGMA_API_URL = 'https://api.figma.com/v1';
-const FIGMA_FILE_KEY = 'kHURltuksu0EljOnPnXDIg';
-const FIGMA_ACCESS_TOKEN = 'figd_5v7-n-MfLdBOCIjrd24Fzj9_cD7nMQY6gauFd40M';
+ //const FIGMA_API_URL = 'https://api.figma.com/v1';
+//const FIGMA_FILE_KEY = 'kHURltuksu0EljOnPnXDIg';
+ // const FIGMA_ACCESS_TOKEN = 'figd_5v7-n-MfLdBOCIjrd24Fzj9_cD7nMQY6gauFd40M';
 
 const fetchFigmaData = async () => {
   try {
