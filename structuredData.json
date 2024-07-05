@@ -1,0 +1,194 @@
+{
+  "name": "Simple Login Page (Community)",
+  "lastModified": "2024-07-04T12:14:48Z",
+  "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/219e1656-b90f-494b-a170-533c34d2ed3f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCR2CQHY4J%2F20240704%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240704T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5cedb9f39f89ac5ae19c313aed223700fa0862a917bd5291a72cfd94afeaa1c7",
+  "documentTree": [
+    {
+      "id": "0:1",
+      "name": "Page 1",
+      "type": "CANVAS",
+      "style": "Unknown Style",
+      "cssProperties": {},
+      "children": [
+        {
+          "id": "19:6",
+          "name": "Login Light",
+          "type": "FRAME",
+          "style": "Unknown Style",
+          "cssProperties": {
+            "width": "414px",
+            "height": "896px",
+            "left": "238px",
+            "top": "-540px",
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "borderRadius": "20px"
+          },
+          "children": [
+            {
+              "id": "19:7",
+              "name": "Copy Main",
+              "type": "FRAME",
+              "style": "Unknown Style",
+              "cssProperties": {
+                "width": "414px",
+                "height": "896px",
+                "left": "238px",
+                "top": "-540px",
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderRadius": "20px"
+              },
+              "children": [
+                {
+                  "id": "19:8",
+                  "name": "Actions",
+                  "type": "GROUP",
+                  "style": "Unknown Style",
+                  "cssProperties": {
+                    "width": "364px",
+                    "height": "148.5px",
+                    "left": "263px",
+                    "top": "-209px",
+                    "borderRadius": "10px"
+                  },
+                  "children": [
+                    {
+                      "id": "19:9",
+                      "name": "USERNAME",
+                      "type": "TEXT",
+                      "style": "Unknown Style",
+                      "cssProperties": {
+                        "width": "61px",
+                        "height": "17px",
+                        "left": "263px",
+                        "top": "-209px",
+                        "color": "rgba(152, 152, 152, 1)"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "19:10",
+                      "name": "AestheticDesigns@gmail.com",
+                      "type": "TEXT",
+                      "style": "Unknown Style",
+                      "cssProperties": {
+                        "width": "163px",
+                        "height": "16px",
+                        "left": "263px",
+                        "top": "-183px",
+                        "color": "rgba(36, 37, 38, 1)"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "19:14",
+                      "name": "Rectangle 4",
+                      "type": "RECTANGLE",
+                      "style": "Unknown Style",
+                      "cssProperties": {
+                        "width": "364px",
+                        "height": "1.5px",
+                        "left": "263px",
+                        "top": "-160px",
+                        "backgroundColor": "rgba(152, 152, 152, 1)",
+                        "borderRadius": "10px"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "19:11",
+                      "name": "PASSWORD",
+                      "type": "TEXT",
+                      "style": "Unknown Style",
+                      "cssProperties": {
+                        "width": "64px",
+                        "height": "17px",
+                        "left": "264px",
+                        "top": "-109px",
+                        "color": "rgba(152, 152, 152, 1)"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "19:13",
+                      "name": "**********",
+                      "type": "TEXT",
+                      "style": "Unknown Style",
+                      "cssProperties": {
+                        "width": "163px",
+                        "height": "16px",
+                        "left": "263px",
+                        "top": "-79px",
+                        "color": "rgba(36, 37, 38, 1)"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "19:12",
+                      "name": "Rectangle 5",
+                      "type": "RECTANGLE",
+                      "style": "Unknown Style",
+                      "cssProperties": {
+                        "width": "364px",
+                        "height": "1.5px",
+                        "left": "263px",
+                        "top": "-62px",
+                        "backgroundColor": "rgba(152, 152, 152, 1)",
+                        "borderRadius": "10px"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "19:15",
+                  "name": "Action Button",
+                  "type": "GROUP",
+                  "style": "Unknown Style",
+                  "cssProperties": {
+                    "width": "364px",
+                    "height": "54px",
+                    "left": "263px",
+                    "top": "140px",
+                    "borderRadius": "6px"
+                  },
+                  "children": [
+                    {
+                      "id": "19:16",
+                      "name": "Rectangle 3",
+                      "type": "RECTANGLE",
+                      "style": "Unknown Style",
+                      "cssProperties": {
+                        "width": "364px",
+                        "height": "54px",
+                        "left": "263px",
+                        "top": "140px",
+                        "backgroundColor": "rgba(25, 198, 187, 1)",
+                        "borderRadius": "6px",
+                        "boxShadow": "0px 4px 10px rgba(25, 198, 187, 0.25)"
+                      },
+                      "children": []
+                    },
+                    {
+                      "id": "19:17",
+                      "name": "LOGIN",
+                      "type": "TEXT",
+                      "style": "Unknown Style",
+                      "cssProperties": {
+                        "width": "47px",
+                        "height": "16px",
+                        "left": "422px",
+                        "top": "158px",
+                        "color": "rgba(255, 255, 255, 1)"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
